@@ -1,0 +1,23 @@
+{
+  "name": "traintrex",
+  "version": "1.0.0",
+  "description": "A simple artificial inteligence to teach Google's Dinosaur to dodge obstacles",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Pankaj Agarwal,Shivam Satwah,Akshaya Kakkilaya",
+  "license": "MIT",
+  "dependencies": {
+    "async": "^1.5.0",
+    "blessed": "^0.1.81",
+    "blessed-contrib": "^2.5.2",
+    "lodash": "^3.10.1",
+    "robotjs": "^0.3.6",
+    "synaptic": "^1.0.5"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/direwolf424/Train_Trex.git"
+  }
+}
